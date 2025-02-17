@@ -1,0 +1,5 @@
+# Ignore Vagrant temporary files
+.vagrant/
+
+# Ignore VM box files
+*.box
